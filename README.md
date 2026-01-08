@@ -73,6 +73,11 @@ All labels are explicitly defined inside the prompt to constrain the model’s o
 
 The system relies entirely on prompt engineering. The prompt includes:
 
+## 🎥 Project Demo
+
+A full walkthrough and explanation of the project is available here:  
+  [YouTube Demo Video](https://youtu.be/GD4ZJGH4Wio)
+
 1. A clear task instruction
 2. Explicit definitions of allowed sentiment and category labels
 3. Multiple labeled examples (few-shot prompting)
